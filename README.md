@@ -1,4 +1,4 @@
 # Google Search Engine Clone mini
  Demo
 
-<p align= "center"><img src="https://github.com/ROHAN0011/rotate-desktop-screen/blob/a9fc0efc8ef299c1af681950cbee354058e4c904/Rotate%20Screen.png" width="500" height= "300"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Google-Search-Engine-Clone-mini/blob/415086e4edc9fea9874c410d6dc4549ca3161cc8/Google%20Clone.jpg" width="500" height= "300"></p>
